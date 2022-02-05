@@ -8,7 +8,7 @@
 
 <img align="left"  width="55%" src="https://github-readme-stats.vercel.app/api?username=tokayOzgur&show_icons=true&theme=radical"/>
 
-<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokayOzgur&layout=compact" />
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokayOzgur&layout=compact&theme=midnight-purple" />
 
 
 <img  alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
