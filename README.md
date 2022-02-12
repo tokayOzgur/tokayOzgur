@@ -10,7 +10,6 @@
 
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokayOzgur&layout=compact&theme=midnight-purple" />
 
-
 <img  alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img  alt="javascript" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img  alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
