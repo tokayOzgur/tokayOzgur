@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a Software Engineer with a strong background in web and mobile development. I have a passion for building robust and scalable applications, and I love to stay updated with the latest technologies.
 
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=tokayOzgur&color=brightgreen)
 
 ---
@@ -61,9 +63,9 @@ Welcome to my GitHub profile! I'm a Software Engineer with a strong background i
 
 ## 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tokayOzgur&show_icons=true&theme=radical" alt="Özgür's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokayOzgur&layout=compact&theme=midnight-purple" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tokayOzgur&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Özgür's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokayOzgur&layout=compact&theme=midnight-purple&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
