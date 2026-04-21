@@ -5,7 +5,6 @@
 [![Website](https://img.shields.io/badge/Website-otokay.com-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white)](https://otokay.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tokayyozgur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tokayyozgur)
 [![Email](https://img.shields.io/badge/Email-ozytky%40gmail.com-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozytky@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tokayOzgur-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tokayOzgur)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tokayOzgur&style=flat-square&color=1f6feb)
 ![GitHub Followers](https://img.shields.io/github/followers/tokayOzgur?label=Followers&style=flat-square&color=1f6feb)
