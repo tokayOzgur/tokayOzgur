@@ -1,87 +1,77 @@
-# Hi there, I'm Özgür! 👋
+# Özgür Tokay
 
-Welcome to my GitHub profile! I'm a Software Engineer with a strong background in web and mobile development. I have a passion for building robust and scalable applications, and I love to stay updated with the latest technologies.
+> Software Engineer focused on scalable Java backends and modern web/mobile products.
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+[![Website](https://img.shields.io/badge/Website-otokay.com-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white)](https://otokay.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tokayyozgur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tokayyozgur)
+[![Email](https://img.shields.io/badge/Email-ozytky%40gmail.com-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozytky@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tokayOzgur-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tokayOzgur)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tokayOzgur&color=brightgreen)
-
----
-
-## 🔧 Technologies & Tools
-
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-</p>
-
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white" alt="Groovy"/>
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/PrimeFaces-0078D7?style=for-the-badge&logo=primefaces&logoColor=white" alt="PrimeFaces"/>
-  <img src="https://img.shields.io/badge/Java%20Server%20Faces-007396?style=for-the-badge&logo=java&logoColor=white" alt="JavaServerFaces"/>
-  <img src="https://img.shields.io/badge/Java%20Server%20Page-007396?style=for-the-badge&logo=java&logoColor=white" alt="JavaServerPage"/>
-</p>
-
-### Markup & Styling
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea"/>
-</p>
-
-### Design Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6" alt="Adobe XD"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=tokayOzgur&style=flat-square&color=1f6feb)
+![GitHub Followers](https://img.shields.io/github/followers/tokayOzgur?label=Followers&style=flat-square&color=1f6feb)
 
 ---
 
-## 📈 GitHub Stats
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tokayOzgur&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Özgür's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokayOzgur&layout=compact&theme=midnight-purple&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages"/>
-</p>
+I build reliable software across backend, frontend, and mobile. My core focus is designing maintainable systems with Java and Spring Boot, then pairing them with performant interfaces built in React, Next.js, React Native, and Expo.
 
----
-
-## 📫 How to reach me
-
-- Email: [ozytky@gmail.com](mailto:ozytky@gmail.com)
-- LinkedIn: [tokayyozgur](https://www.linkedin.com/in/tokayyozgur)
-- GitHub: [tokayOzgur](https://github.com/tokayOzgur)
+- Building backend architectures with Java, Spring Boot, JOOQ, and SQL-first thinking
+- Creating responsive product experiences with React.js, Next.js, React Native, and Expo
+- Working with clean architecture, code quality, performance, and long-term maintainability
 
 ---
 
-## 🌟 Projects & Contributions
+## Core Stack
 
-Check out some of my [projects](https://github.com/tokayOzgur?tab=repositories) and feel free to reach out if you have any questions or if you'd like to collaborate!
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JOOQ](https://img.shields.io/badge/JOOQ-C62828?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
+![Expo](https://img.shields.io/badge/Expo-111111?style=for-the-badge&logo=expo&logoColor=white)
+
+## Engineering Focus
+
+| Area | What I Work With |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Security, JOOQ, Hibernate, REST API design |
+| Frontend | React.js, Next.js, TypeScript, Tailwind CSS |
+| Mobile | React Native, Expo |
+| Database | PostgreSQL, SQL Server, MongoDB, Redis |
+| DevOps | Docker, Jenkins, GitHub, Gitea |
+
+## Toolbox
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-444444?style=flat-square&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=111111)
 
 ---
 
-Thank you for visiting my profile! Have a great day! 😄
+## GitHub Analytics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tokayOzgur&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Projects
+
+Explore selected work and ongoing experiments on [my repositories page](https://github.com/tokayOzgur?tab=repositories).
+
+Open to collaboration on backend-heavy products, full-stack apps, and mobile experiences.
