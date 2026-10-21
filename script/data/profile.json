@@ -1,0 +1,28 @@
+{
+  "about": {
+    "summary": "I build reliable software across backend, frontend, and mobile. My core focus is designing maintainable systems with Java and Spring Boot, then pairing them with performant interfaces built in React, Next.js, React Native, and Expo.",
+    "highlightList": [
+      "Building backend architectures with Java, Spring Boot, JOOQ, and SQL-first thinking",
+      "Creating responsive product experiences with React.js, Next.js, React Native, and Expo",
+      "Working with clean architecture, code quality, performance, and long-term maintainability"
+    ]
+  },
+  "coreStackList": [
+    { "name": "Java", "color": "orange" },
+    { "name": "Spring Boot", "color": "green" },
+    { "name": "Spring Security", "color": "green" },
+    { "name": "JOOQ", "color": "magenta" },
+    { "name": "PostgreSQL", "color": "cyan" },
+    { "name": "React", "color": "cyan" },
+    { "name": "Next.js", "color": "text" },
+    { "name": "React Native", "color": "cyan" },
+    { "name": "Expo", "color": "violet" }
+  ],
+  "focusList": [
+    { "area": "Backend", "color": "green", "itemList": ["Java", "Spring Boot", "Spring Security", "JOOQ", "Hibernate", "REST API design"] },
+    { "area": "Frontend", "color": "cyan", "itemList": ["React.js", "Next.js", "TypeScript", "Tailwind CSS"] },
+    { "area": "Mobile", "color": "magenta", "itemList": ["React Native", "Expo"] },
+    { "area": "Database", "color": "yellow", "itemList": ["PostgreSQL", "SQL Server", "MongoDB", "Redis"] },
+    { "area": "DevOps", "color": "violet", "itemList": ["Docker", "Jenkins", "GitHub", "Gitea"] }
+  ]
+}

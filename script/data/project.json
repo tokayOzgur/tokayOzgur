@@ -1,0 +1,81 @@
+[
+  {
+    "slug": "luna",
+    "title": "Luna",
+    "category": "PERSONAL",
+    "accent": "rose",
+    "tagline": "Privacy-first platform to track menstrual cycles, fertility windows and daily symptoms.",
+    "techList": ["Next.js", "Spring Boot 3", "PostgreSQL", "Spring Security", "JWT", "Docker"],
+    "platformList": ["web", "mobile"],
+    "liveUrl": "https://www.luna.otokay.com"
+  },
+  {
+    "slug": "planify-360",
+    "title": "Planify 360",
+    "category": "PERSONAL",
+    "accent": "green",
+    "tagline": "Team to-do app with shared lists, role-based access, deadlines and recurring tasks.",
+    "techList": ["Next.js", "Spring Boot", "PostgreSQL", "TanStack Query", "Zustand", "React Hook Form"],
+    "platformList": ["web", "mobile"],
+    "liveUrl": "https://www.planify.otokay.com"
+  },
+  {
+    "slug": "harman",
+    "title": "Harman",
+    "category": "PERSONAL",
+    "accent": "amber",
+    "tagline": "Procurement and current-account platform for farmers and traders dealing in wheat and corn.",
+    "techList": ["Next.js", "Spring Boot", "PostgreSQL", "TanStack Query", "Zustand", "Docker"],
+    "platformList": ["web"],
+    "liveUrl": "https://www.harman.otokay.com"
+  },
+  {
+    "slug": "arbitrage-detection-system",
+    "title": "Arbitrage Detection System",
+    "category": "FREELANCE",
+    "accent": "green",
+    "tagline": "Real-time crypto price monitor over WebSocket that spots cross-exchange arbitrage.",
+    "techList": ["ReactJS", "Bootstrap", "i18n", "Spring Boot", "Java", "PostgreSQL", "Heroku"],
+    "platformList": ["web"]
+  },
+  {
+    "slug": "micatel",
+    "title": "Micatel",
+    "category": "FREELANCE",
+    "accent": "blue",
+    "tagline": "Single-page corporate site presenting the product supply chain from supplier to end user.",
+    "techList": ["Next.js", "TypeScript", "Tailwind CSS", "SEO", "Vercel"],
+    "platformList": ["web"],
+    "liveUrl": "https://www.micatel.com"
+  },
+  {
+    "slug": "smart-lock-systems",
+    "title": "Smart Lock Systems",
+    "category": "FREELANCE",
+    "accent": "blue",
+    "tagline": "Corporate website showcasing smart lock and electronic access solutions.",
+    "techList": ["Next.js", "TypeScript", "Tailwind CSS", "SEO", "Vercel"],
+    "platformList": ["web"],
+    "liveUrl": "https://keytronik.com.tr"
+  },
+  {
+    "slug": "acil-cilingir",
+    "title": "Acil Çilingir Bul",
+    "category": "FREELANCE",
+    "accent": "rose",
+    "tagline": "Multilingual landing site for 24/7 emergency locksmith services, fast and SEO-ready.",
+    "techList": ["Next.js", "TypeScript", "Tailwind CSS", "SEO", "i18n", "Vercel"],
+    "platformList": ["web"],
+    "liveUrl": "https://www.cilingiryunus.com.tr"
+  },
+  {
+    "slug": "novadan",
+    "title": "Novadan",
+    "category": "INTERNSHIP",
+    "accent": "green",
+    "tagline": "Pharmacy marketplace for sourcing products at competitive prices. Internship work.",
+    "techList": ["Java", "Spring Boot", "MySQL", "JavaScript", "Bootstrap"],
+    "platformList": ["web"],
+    "liveUrl": "https://www.novadan.com.tr"
+  }
+]
