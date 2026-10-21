@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="206" viewBox="0 0 830 206" role="img">
+<title>Top languages of tokayOzgur</title>
+<defs>
+<filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="830" height="206"><feGaussianBlur stdDeviation="2.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="scanline" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.045"/></pattern>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0420"/><stop offset="1" stop-color="#190838"/></linearGradient>
+</defs>
+<style>
+.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace}
+.trace{stroke-dasharray:70 930;animation:trace 7s linear infinite}
+.glitch{animation:glitch 5s steps(1,end) infinite}
+.flicker{animation:flicker 6s steps(1,end) infinite}
+.blink{animation:blink 1.1s steps(1,end) infinite}
+@keyframes trace{to{stroke-dashoffset:-1000}}
+@keyframes glitch{0%,90%,100%{transform:translate(0,0)}91%{transform:translate(-2px,1px)}93%{transform:translate(2px,-1px)}95%{transform:translate(-1px,0)}}
+@keyframes flicker{0%,94%,100%{opacity:1}95%{opacity:.4}96%{opacity:1}97%{opacity:.55}98%{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<path d="M14,1 H829 V192 L816,205 H1 V14 Z" fill="url(#panel)"/>
+<path d="M14,1 H829 V192 L816,205 H1 V14 Z" fill="url(#scanline)"/>
+<path d="M14,1 H829 V192 L816,205 H1 V14 Z" fill="none" stroke="#05ffa1" stroke-opacity="0.5" stroke-width="1.2"/>
+<path class="trace" d="M14,1 H829 V192 L816,205 H1 V14 Z" pathLength="1000" fill="none" stroke="#05ffa1" stroke-width="2.4" filter="url(#glow)"/>
+<text class="mono flicker" x="24" y="34" font-size="13" font-weight="700" letter-spacing="2.5" fill="#05ffa1" filter="url(#glow)">// LANGUAGE.DISTRIBUTION</text>
+<text class="mono" x="806" y="34" font-size="11" letter-spacing="1.5" text-anchor="end" fill="#8f86b3">BY CODE SIZE</text>
+<line x1="24" y1="46" x2="806" y2="46" stroke="#05ffa1" stroke-opacity="0.35" stroke-width="1"/>
+<rect x="24" y="66" width="782" height="12" fill="#1a1133"/>
+<rect x="24.0" y="66" width="369.6" height="12" fill="#00f0ff" filter="url(#glow)"/>
+<rect x="395.6" y="66" width="318.8" height="12" fill="#ff2a6d" filter="url(#glow)"/>
+<rect x="716.4" y="66" width="57.9" height="12" fill="#f9f002" filter="url(#glow)"/>
+<rect x="776.3" y="66" width="11.5" height="12" fill="#05ffa1" filter="url(#glow)"/>
+<rect x="789.8" y="66" width="5.8" height="12" fill="#9d4edd" filter="url(#glow)"/>
+<rect x="797.6" y="66" width="4.0" height="12" fill="#ff9e00" filter="url(#glow)"/>
+<rect x="803.6" y="66" width="1.0" height="12" fill="#8f86b3" filter="url(#glow)"/>
+<rect x="24" y="112" width="10" height="10" fill="#00f0ff"/>
+<text class="mono" x="42" y="121" font-size="12" fill="#e9e4ff">Java</text>
+<text class="mono" x="256.6666666666667" y="121" font-size="12" text-anchor="end" fill="#00f0ff">47.5%</text>
+<rect x="284.6666666666667" y="112" width="10" height="10" fill="#ff2a6d"/>
+<text class="mono" x="302.6666666666667" y="121" font-size="12" fill="#e9e4ff">JavaScript</text>
+<text class="mono" x="517.3333333333334" y="121" font-size="12" text-anchor="end" fill="#ff2a6d">41.0%</text>
+<rect x="545.3333333333334" y="112" width="10" height="10" fill="#f9f002"/>
+<text class="mono" x="563.3333333333334" y="121" font-size="12" fill="#e9e4ff">C#</text>
+<text class="mono" x="778" y="121" font-size="12" text-anchor="end" fill="#f9f002">7.7%</text>
+<rect x="24" y="140" width="10" height="10" fill="#05ffa1"/>
+<text class="mono" x="42" y="149" font-size="12" fill="#e9e4ff">HTML</text>
+<text class="mono" x="256.6666666666667" y="149" font-size="12" text-anchor="end" fill="#05ffa1">1.7%</text>
+<rect x="284.6666666666667" y="140" width="10" height="10" fill="#9d4edd"/>
+<text class="mono" x="302.6666666666667" y="149" font-size="12" fill="#e9e4ff">Python</text>
+<text class="mono" x="517.3333333333334" y="149" font-size="12" text-anchor="end" fill="#9d4edd">1.0%</text>
+<rect x="545.3333333333334" y="140" width="10" height="10" fill="#ff9e00"/>
+<text class="mono" x="563.3333333333334" y="149" font-size="12" fill="#e9e4ff">TSQL</text>
+<text class="mono" x="778" y="149" font-size="12" text-anchor="end" fill="#ff9e00">0.8%</text>
+<rect x="24" y="168" width="10" height="10" fill="#8f86b3"/>
+<text class="mono" x="42" y="177" font-size="12" fill="#e9e4ff">Other</text>
+<text class="mono" x="256.6666666666667" y="177" font-size="12" text-anchor="end" fill="#8f86b3">0.3%</text>
+
+</svg>
