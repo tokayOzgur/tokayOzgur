@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="52" viewBox="0 0 830 52" role="img">
+<title>Core stack: Java, Spring Boot, Spring Security, JOOQ, PostgreSQL, React, Next.js, React Native, Expo</title>
+<defs>
+<filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="830" height="52"><feGaussianBlur stdDeviation="2.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="scanline" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.045"/></pattern>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0420"/><stop offset="1" stop-color="#190838"/></linearGradient>
+</defs>
+<style>
+.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace}
+.trace{stroke-dasharray:70 930;animation:trace 7s linear infinite}
+.glitch{animation:glitch 5s steps(1,end) infinite}
+.flicker{animation:flicker 6s steps(1,end) infinite}
+.blink{animation:blink 1.1s steps(1,end) infinite}
+@keyframes trace{to{stroke-dashoffset:-1000}}
+@keyframes glitch{0%,90%,100%{transform:translate(0,0)}91%{transform:translate(-2px,1px)}93%{transform:translate(2px,-1px)}95%{transform:translate(-1px,0)}}
+@keyframes flicker{0%,94%,100%{opacity:1}95%{opacity:.4}96%{opacity:1}97%{opacity:.55}98%{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<path d="M10,1 H829 V42 L820,51 H1 V10 Z" fill="url(#panel)"/>
+<path d="M10,1 H829 V42 L820,51 H1 V10 Z" fill="url(#scanline)"/>
+<path d="M10,1 H829 V42 L820,51 H1 V10 Z" fill="none" stroke="#00f0ff" stroke-opacity="0.5" stroke-width="1.2"/>
+<path class="trace" d="M10,1 H829 V42 L820,51 H1 V10 Z" pathLength="1000" fill="none" stroke="#00f0ff" stroke-width="2.4" filter="url(#glow)"/>
+<text class="mono flicker" x="24" y="30" font-size="11" font-weight="700" letter-spacing="1.6" fill="#00f0ff" filter="url(#glow)">CORE STACK</text>
+<line x1="110" y1="14" x2="110" y2="38" stroke="#8f86b3" stroke-opacity="0.35"/>
+<rect x="124" y="16" width="43" height="20" rx="2" fill="#ff9e00" fill-opacity="0.08" stroke="#ff9e00" stroke-opacity="0.5"/>
+<text class="mono" x="145.5" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">Java</text>
+<rect x="173" y="16" width="89" height="20" rx="2" fill="#05ffa1" fill-opacity="0.08" stroke="#05ffa1" stroke-opacity="0.5"/>
+<text class="mono" x="217.5" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">Spring Boot</text>
+<rect x="268" y="16" width="115" height="20" rx="2" fill="#05ffa1" fill-opacity="0.08" stroke="#05ffa1" stroke-opacity="0.5"/>
+<text class="mono" x="325.5" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">Spring Security</text>
+<rect x="389" y="16" width="43" height="20" rx="2" fill="#ff2a6d" fill-opacity="0.08" stroke="#ff2a6d" stroke-opacity="0.5"/>
+<text class="mono" x="410.5" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">JOOQ</text>
+<rect x="438" y="16" width="82" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="479" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">PostgreSQL</text>
+<rect x="526" y="16" width="49" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="550.5" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">React</text>
+<rect x="581" y="16" width="63" height="20" rx="2" fill="#e9e4ff" fill-opacity="0.08" stroke="#e9e4ff" stroke-opacity="0.5"/>
+<text class="mono" x="612.5" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">Next.js</text>
+<rect x="650" y="16" width="96" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="698" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">React Native</text>
+<rect x="752" y="16" width="43" height="20" rx="2" fill="#9d4edd" fill-opacity="0.08" stroke="#9d4edd" stroke-opacity="0.5"/>
+<text class="mono" x="773.5" y="30" font-size="11" text-anchor="middle" fill="#e9e4ff">Expo</text>
+</svg>
