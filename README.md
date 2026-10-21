@@ -64,6 +64,7 @@
   <a href="https://www.luna.otokay.com"><img src="asset/project-luna.svg" alt="Luna: privacy-first menstrual cycle and fertility tracking platform" width="49%" /></a>
   <a href="https://www.planify.otokay.com"><img src="asset/project-planify-360.svg" alt="Planify 360: team to-do app with shared lists and role-based access" width="49%" /></a>
   <a href="https://www.harman.otokay.com"><img src="asset/project-harman.svg" alt="Harman: agricultural procurement and current-account platform" width="49%" /></a>
+  <a href="https://hevseng.otokay.com"><img src="asset/project-hevseng.svg" alt="Hevseng: personal accounting app for monthly income, expenses and investments" width="49%" /></a>
 </p>
 
 ### Enterprise Contributions
