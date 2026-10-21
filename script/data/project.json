@@ -28,54 +28,5 @@
     "techList": ["Next.js", "Spring Boot", "PostgreSQL", "TanStack Query", "Zustand", "Docker"],
     "platformList": ["web"],
     "liveUrl": "https://www.harman.otokay.com"
-  },
-  {
-    "slug": "arbitrage-detection-system",
-    "title": "Arbitrage Detection System",
-    "category": "FREELANCE",
-    "accent": "green",
-    "tagline": "Real-time crypto price monitor over WebSocket that spots cross-exchange arbitrage.",
-    "techList": ["ReactJS", "Bootstrap", "i18n", "Spring Boot", "Java", "PostgreSQL", "Heroku"],
-    "platformList": ["web"]
-  },
-  {
-    "slug": "micatel",
-    "title": "Micatel",
-    "category": "FREELANCE",
-    "accent": "blue",
-    "tagline": "Single-page corporate site presenting the product supply chain from supplier to end user.",
-    "techList": ["Next.js", "TypeScript", "Tailwind CSS", "SEO", "Vercel"],
-    "platformList": ["web"],
-    "liveUrl": "https://www.micatel.com"
-  },
-  {
-    "slug": "smart-lock-systems",
-    "title": "Smart Lock Systems",
-    "category": "FREELANCE",
-    "accent": "blue",
-    "tagline": "Corporate website showcasing smart lock and electronic access solutions.",
-    "techList": ["Next.js", "TypeScript", "Tailwind CSS", "SEO", "Vercel"],
-    "platformList": ["web"],
-    "liveUrl": "https://keytronik.com.tr"
-  },
-  {
-    "slug": "acil-cilingir",
-    "title": "Acil Çilingir Bul",
-    "category": "FREELANCE",
-    "accent": "rose",
-    "tagline": "Multilingual landing site for 24/7 emergency locksmith services, fast and SEO-ready.",
-    "techList": ["Next.js", "TypeScript", "Tailwind CSS", "SEO", "i18n", "Vercel"],
-    "platformList": ["web"],
-    "liveUrl": "https://www.cilingiryunus.com.tr"
-  },
-  {
-    "slug": "novadan",
-    "title": "Novadan",
-    "category": "INTERNSHIP",
-    "accent": "green",
-    "tagline": "Pharmacy marketplace for sourcing products at competitive prices. Internship work.",
-    "techList": ["Java", "Spring Boot", "MySQL", "JavaScript", "Bootstrap"],
-    "platformList": ["web"],
-    "liveUrl": "https://www.novadan.com.tr"
   }
 ]
