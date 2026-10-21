@@ -28,5 +28,15 @@
     "techList": ["Next.js", "Spring Boot", "PostgreSQL", "TanStack Query", "Zustand", "Docker"],
     "platformList": ["web"],
     "liveUrl": "https://www.harman.otokay.com"
+  },
+  {
+    "slug": "hevseng",
+    "title": "Hevseng",
+    "category": "PERSONAL",
+    "accent": "blue",
+    "tagline": "Personal accounting app that tracks income, expenses and investments month by month.",
+    "techList": ["Next.js", "React Native", "Expo", "Spring Boot", "PostgreSQL", "jOOQ"],
+    "platformList": ["web", "mobile"],
+    "liveUrl": "https://hevseng.otokay.com"
   }
 ]
