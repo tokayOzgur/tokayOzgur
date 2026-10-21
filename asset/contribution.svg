@@ -27,7 +27,7 @@
 <path d="M14,1 H829 V192 L816,205 H1 V14 Z" fill="none" stroke="#ff2a6d" stroke-opacity="0.5" stroke-width="1.2"/>
 <path class="trace" d="M14,1 H829 V192 L816,205 H1 V14 Z" pathLength="1000" fill="none" stroke="#ff2a6d" stroke-width="2.4" filter="url(#glow)"/>
 <text class="mono flicker" x="24" y="34" font-size="13" font-weight="700" letter-spacing="2.5" fill="#ff2a6d" filter="url(#glow)">// CONTRIBUTION.MATRIX</text>
-<text class="mono" x="806" y="34" font-size="11" letter-spacing="1.5" text-anchor="end" fill="#8f86b3">6,447 CONTRIBUTIONS // LAST 365 DAYS</text>
+<text class="mono" x="806" y="34" font-size="11" letter-spacing="1.5" text-anchor="end" fill="#8f86b3">6,461 CONTRIBUTIONS // LAST 365 DAYS</text>
 <line x1="24" y1="46" x2="806" y2="46" stroke="#ff2a6d" stroke-opacity="0.35" stroke-width="1"/>
 <rect x="45.5" y="64" width="11" height="11" rx="2" fill="#251a4a"/>
 <rect x="45.5" y="78" width="11" height="11" rx="2" fill="#251a4a"/>
