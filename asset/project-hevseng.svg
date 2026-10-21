@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="222" viewBox="0 0 410 222" role="img">
+<title>Hevseng — Personal accounting app that tracks income, expenses and investments month by month.</title>
+<defs>
+<filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="410" height="222"><feGaussianBlur stdDeviation="2.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="scanline" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.045"/></pattern>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0420"/><stop offset="1" stop-color="#190838"/></linearGradient>
+</defs>
+<style>
+.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace}
+.trace{stroke-dasharray:70 930;animation:trace 7s linear infinite}
+.glitch{animation:glitch 5s steps(1,end) infinite}
+.flicker{animation:flicker 6s steps(1,end) infinite}
+.blink{animation:blink 1.1s steps(1,end) infinite}
+@keyframes trace{to{stroke-dashoffset:-1000}}
+@keyframes glitch{0%,90%,100%{transform:translate(0,0)}91%{transform:translate(-2px,1px)}93%{transform:translate(2px,-1px)}95%{transform:translate(-1px,0)}}
+@keyframes flicker{0%,94%,100%{opacity:1}95%{opacity:.4}96%{opacity:1}97%{opacity:.55}98%{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<path d="M14,1 H409 V208 L396,221 H1 V14 Z" fill="url(#panel)"/>
+<path d="M14,1 H409 V208 L396,221 H1 V14 Z" fill="url(#scanline)"/>
+<path d="M14,1 H409 V208 L396,221 H1 V14 Z" fill="none" stroke="#00f0ff" stroke-opacity="0.5" stroke-width="1.2"/>
+<path class="trace" d="M14,1 H409 V208 L396,221 H1 V14 Z" pathLength="1000" fill="none" stroke="#00f0ff" stroke-width="2.4" filter="url(#glow)"/>
+<rect x="20" y="22" width="75.2" height="18" fill="#00f0ff" fill-opacity="0.14" stroke="#00f0ff" stroke-opacity="0.6"/>
+<text class="mono flicker" x="28" y="35" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#00f0ff">PERSONAL</text>
+<text class="mono" x="390" y="35" font-size="10.5" letter-spacing="1.4" text-anchor="end" fill="#8f86b3">WEB + MOBILE</text>
+<g class="glitch">
+<text class="mono" x="18.5" y="70" font-size="22" font-weight="800" fill="#00f0ff" fill-opacity="0.75" textLength="93" lengthAdjust="spacing">Hevseng</text>
+<text class="mono" x="21.5" y="70" font-size="22" font-weight="800" fill="#ff2a6d" fill-opacity="0.75" textLength="93" lengthAdjust="spacing">Hevseng</text>
+<text class="mono" x="20" y="70" font-size="22" font-weight="800" fill="#e9e4ff" fill-opacity="1" textLength="93" lengthAdjust="spacing">Hevseng</text>
+</g>
+<text class="mono" x="20" y="96" font-size="12" fill="#8f86b3">Personal accounting app that tracks income,</text>
+<text class="mono" x="20" y="114" font-size="12" fill="#8f86b3">expenses and investments month by month.</text>
+<rect x="20" y="132" width="63" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="51.5" y="146" font-size="11" text-anchor="middle" fill="#e9e4ff">Next.js</text>
+<rect x="89" y="132" width="96" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="137" y="146" font-size="11" text-anchor="middle" fill="#e9e4ff">React Native</text>
+<rect x="191" y="132" width="43" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="212.5" y="146" font-size="11" text-anchor="middle" fill="#e9e4ff">Expo</text>
+<rect x="240" y="132" width="89" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="284.5" y="146" font-size="11" text-anchor="middle" fill="#e9e4ff">Spring Boot</text>
+<rect x="20" y="158" width="82" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="61" y="172" font-size="11" text-anchor="middle" fill="#e9e4ff">PostgreSQL</text>
+<rect x="108" y="158" width="43" height="20" rx="2" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.5"/>
+<text class="mono" x="129.5" y="172" font-size="11" text-anchor="middle" fill="#e9e4ff">jOOQ</text>
+<text class="mono" x="20" y="206" font-size="12" font-weight="700" fill="#00f0ff" filter="url(#glow)">▸ LIVE</text>
+<text class="mono" x="71.80000000000001" y="206" font-size="12" fill="#e9e4ff">hevseng.otokay.com</text>
+<rect class="blink" x="212.4" y="195" width="7" height="13" fill="#00f0ff"/>
+<text class="mono" x="384" y="210" font-size="9" letter-spacing="1" text-anchor="end" fill="#8f86b3" fill-opacity="0.7">0xF4A4</text>
+</svg>
