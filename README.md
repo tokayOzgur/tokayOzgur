@@ -64,11 +64,6 @@
   <a href="https://www.luna.otokay.com"><img src="asset/project-luna.svg" alt="Luna: privacy-first menstrual cycle and fertility tracking platform" width="49%" /></a>
   <a href="https://www.planify.otokay.com"><img src="asset/project-planify-360.svg" alt="Planify 360: team to-do app with shared lists and role-based access" width="49%" /></a>
   <a href="https://www.harman.otokay.com"><img src="asset/project-harman.svg" alt="Harman: agricultural procurement and current-account platform" width="49%" /></a>
-  <a href="https://otokay.com/en/project/arbitrage-detection-system"><img src="asset/project-arbitrage-detection-system.svg" alt="Arbitrage Detection System: real-time crypto arbitrage monitor" width="49%" /></a>
-  <a href="https://www.micatel.com"><img src="asset/project-micatel.svg" alt="Micatel: supply chain corporate website" width="49%" /></a>
-  <a href="https://keytronik.com.tr"><img src="asset/project-smart-lock-systems.svg" alt="Smart Lock Systems: smart lock corporate website" width="49%" /></a>
-  <a href="https://www.cilingiryunus.com.tr"><img src="asset/project-acil-cilingir.svg" alt="Acil Çilingir Bul: 24/7 emergency locksmith landing site" width="49%" /></a>
-  <a href="https://www.novadan.com.tr"><img src="asset/project-novadan.svg" alt="Novadan: pharmacy marketplace" width="49%" /></a>
 </p>
 
 ### Enterprise Contributions
