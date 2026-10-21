@@ -13,35 +13,21 @@
 
 ## About Me
 
-I build reliable software across backend, frontend, and mobile. My core focus is designing maintainable systems with Java and Spring Boot, then pairing them with performant interfaces built in React, Next.js, React Native, and Expo.
-
-- Building backend architectures with Java, Spring Boot, JOOQ, and SQL-first thinking
-- Creating responsive product experiences with React.js, Next.js, React Native, and Expo
-- Working with clean architecture, code quality, performance, and long-term maintainability
-
----
+<p align="center">
+  <img src="asset/about.svg" alt="I build reliable software across backend, frontend, and mobile. My core focus is designing maintainable systems with Java and Spring Boot, then pairing them with performant interfaces built in React, Next.js, React Native, and Expo. Building backend architectures with Java, Spring Boot, JOOQ, and SQL-first thinking. Creating responsive product experiences with React.js, Next.js, React Native, and Expo. Working with clean architecture, code quality, performance, and long-term maintainability." width="100%" />
+</p>
 
 ## Core Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JOOQ](https://img.shields.io/badge/JOOQ-C62828?style=for-the-badge&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
-![Expo](https://img.shields.io/badge/Expo-111111?style=for-the-badge&logo=expo&logoColor=white)
+<p align="center">
+  <img src="asset/core-stack.svg" alt="Core stack: Java, Spring Boot, Spring Security, JOOQ, PostgreSQL, React, Next.js, React Native, Expo" width="100%" />
+</p>
 
 ## Engineering Focus
 
-| Area | What I Work With |
-| --- | --- |
-| Backend | Java, Spring Boot, Spring Security, JOOQ, Hibernate, REST API design |
-| Frontend | React.js, Next.js, TypeScript, Tailwind CSS |
-| Mobile | React Native, Expo |
-| Database | PostgreSQL, SQL Server, MongoDB, Redis |
-| DevOps | Docker, Jenkins, GitHub, Gitea |
+<p align="center">
+  <img src="asset/engineering-focus.svg" alt="Backend: Java, Spring Boot, Spring Security, JOOQ, Hibernate, REST API design. Frontend: React.js, Next.js, TypeScript, Tailwind CSS. Mobile: React Native, Expo. Database: PostgreSQL, SQL Server, MongoDB, Redis. DevOps: Docker, Jenkins, GitHub, Gitea." width="100%" />
+</p>
 
 ## Toolbox
 
@@ -62,12 +48,39 @@ I build reliable software across backend, frontend, and mobile. My core focus is
 
 ## GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tokayOzgur&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="asset/analytic-terminal.svg" alt="gh analyze --user tokayOzgur --live" width="100%" />
+  <img src="asset/metric.svg" alt="GitHub metrics: commits, pull requests, issues, repositories, stars and followers" width="100%" />
+  <img src="asset/contribution.svg" alt="Contribution activity over the last 365 days" width="100%" />
+  <img src="asset/language.svg" alt="Top languages by code size" width="100%" />
+</p>
 
 ---
 
 ## Projects
 
-Explore selected work and ongoing experiments on [my repositories page](https://github.com/tokayOzgur?tab=repositories).
+<p align="center">
+  <img src="asset/project-terminal.svg" alt="ls ./project --status=live" width="100%" />
+  <a href="https://www.luna.otokay.com"><img src="asset/project-luna.svg" alt="Luna: privacy-first menstrual cycle and fertility tracking platform" width="49%" /></a>
+  <a href="https://www.planify.otokay.com"><img src="asset/project-planify-360.svg" alt="Planify 360: team to-do app with shared lists and role-based access" width="49%" /></a>
+  <a href="https://www.harman.otokay.com"><img src="asset/project-harman.svg" alt="Harman: agricultural procurement and current-account platform" width="49%" /></a>
+  <a href="https://otokay.com/en/project/arbitrage-detection-system"><img src="asset/project-arbitrage-detection-system.svg" alt="Arbitrage Detection System: real-time crypto arbitrage monitor" width="49%" /></a>
+  <a href="https://www.micatel.com"><img src="asset/project-micatel.svg" alt="Micatel: supply chain corporate website" width="49%" /></a>
+  <a href="https://keytronik.com.tr"><img src="asset/project-smart-lock-systems.svg" alt="Smart Lock Systems: smart lock corporate website" width="49%" /></a>
+  <a href="https://www.cilingiryunus.com.tr"><img src="asset/project-acil-cilingir.svg" alt="Acil Çilingir Bul: 24/7 emergency locksmith landing site" width="49%" /></a>
+  <a href="https://www.novadan.com.tr"><img src="asset/project-novadan.svg" alt="Novadan: pharmacy marketplace" width="49%" /></a>
+</p>
+
+### Enterprise Contributions
+
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [E-Invoice Integration System](https://otokay.com/en/project/e-invoice-integration) | Invoice integration compliant with GIB formats | Java, MsSQL, JSF, PrimeFaces, Groovy, Jenkins |
+| [E-Ledger Integration System](https://otokay.com/en/project/e-ledger-integration) | E-ledger creation and management for clients | Java, MsSQL, Java FX, Java EE, Jenkins |
+| [E-Reconciliation System](https://otokay.com/en/project/e-reconciliation-system) | Automated reconciliation of financial statements | Java, MongoDB, JSF, PrimeFaces, Bootstrap |
+| [Customer Support Platform](https://otokay.com/en/project/customer-support-platform) | Recording and resolving customer-reported errors | Java, MongoDB, JSF, PrimeFaces, Bootstrap |
+| [E-Reconciliation Robot](https://otokay.com/en/project/e-reconciliation-robot) | BERT-based document comparison and analysis | Python, TensorFlow, PyTorch, NumPy, Pandas |
+
+Explore more work and ongoing experiments on [my repositories page](https://github.com/tokayOzgur?tab=repositories) and in the [case studies on otokay.com](https://otokay.com/en).
 
 Open to collaboration on backend-heavy products, full-stack apps, and mobile experiences.
