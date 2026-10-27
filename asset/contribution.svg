@@ -27,7 +27,7 @@
 <path d="M14,1 H829 V192 L816,205 H1 V14 Z" fill="none" stroke="#ff2a6d" stroke-opacity="0.5" stroke-width="1.2"/>
 <path class="trace" d="M14,1 H829 V192 L816,205 H1 V14 Z" pathLength="1000" fill="none" stroke="#ff2a6d" stroke-width="2.4" filter="url(#glow)"/>
 <text class="mono flicker" x="24" y="34" font-size="13" font-weight="700" letter-spacing="2.5" fill="#ff2a6d" filter="url(#glow)">// CONTRIBUTION.MATRIX</text>
-<text class="mono" x="806" y="34" font-size="11" letter-spacing="1.5" text-anchor="end" fill="#8f86b3">6,877 CONTRIBUTIONS // LAST 365 DAYS</text>
+<text class="mono" x="806" y="34" font-size="11" letter-spacing="1.5" text-anchor="end" fill="#8f86b3">7,163 CONTRIBUTIONS // LAST 365 DAYS</text>
 <line x1="24" y1="46" x2="806" y2="46" stroke="#ff2a6d" stroke-opacity="0.35" stroke-width="1"/>
 <rect x="45.5" y="64" width="11" height="11" rx="2" fill="#251a4a"/>
 <rect x="45.5" y="78" width="11" height="11" rx="2" fill="#251a4a"/>
@@ -340,7 +340,7 @@
 <rect class="pulse g2" x="661.5" y="64" width="11" height="11" rx="2" fill="#ff2a6d"/>
 <rect class="pulse g3" x="661.5" y="78" width="11" height="11" rx="2" fill="#00f0ff"/>
 <rect x="661.5" y="92" width="11" height="11" rx="2" fill="#8a2be2"/>
-<rect class="pulse g5" x="661.5" y="106" width="11" height="11" rx="2" fill="#ff2a6d"/>
+<rect x="661.5" y="106" width="11" height="11" rx="2" fill="#8a2be2"/>
 <rect class="pulse g0" x="661.5" y="120" width="11" height="11" rx="2" fill="#00f0ff"/>
 <rect class="pulse g1" x="661.5" y="134" width="11" height="11" rx="2" fill="#ff2a6d"/>
 <rect x="661.5" y="148" width="11" height="11" rx="2" fill="#251a4a"/>
@@ -375,7 +375,7 @@
 <rect x="731.5" y="64" width="11" height="11" rx="2" fill="#251a4a"/>
 <rect class="pulse g2" x="731.5" y="78" width="11" height="11" rx="2" fill="#00f0ff"/>
 <rect class="pulse g3" x="731.5" y="92" width="11" height="11" rx="2" fill="#ff2a6d"/>
-<rect class="pulse g4" x="731.5" y="106" width="11" height="11" rx="2" fill="#ff2a6d"/>
+<rect x="731.5" y="106" width="11" height="11" rx="2" fill="#8a2be2"/>
 <rect x="731.5" y="120" width="11" height="11" rx="2" fill="#3b1d8f"/>
 <rect class="pulse g0" x="731.5" y="134" width="11" height="11" rx="2" fill="#ff2a6d"/>
 <rect class="pulse g1" x="731.5" y="148" width="11" height="11" rx="2" fill="#00f0ff"/>
@@ -394,7 +394,8 @@
 <rect class="pulse g2" x="759.5" y="134" width="11" height="11" rx="2" fill="#00f0ff"/>
 <rect x="759.5" y="148" width="11" height="11" rx="2" fill="#251a4a"/>
 <rect x="773.5" y="64" width="11" height="11" rx="2" fill="#251a4a"/>
-<rect x="773.5" y="78" width="11" height="11" rx="2" fill="#251a4a"/>
+<rect class="pulse g5" x="773.5" y="78" width="11" height="11" rx="2" fill="#00f0ff"/>
+<rect class="pulse g0" x="773.5" y="92" width="11" height="11" rx="2" fill="#00f0ff"/>
 <rect class="sweep" x="45.5" y="60" width="2" height="103" fill="#00f0ff" opacity="0.7" filter="url(#glow)"/>
 <text class="mono" x="674" y="185" font-size="10" letter-spacing="1.2" fill="#8f86b3">LESS</text>
 <rect x="708" y="176" width="11" height="11" rx="2" fill="#251a4a"/>
