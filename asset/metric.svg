@@ -46,6 +46,6 @@
 <text class="mono" x="610.5" y="134" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#8f86b3" fill-opacity="0.8">EARNED</text>
 <line x1="675.6666666666667" y1="70" x2="675.6666666666667" y2="146" stroke="#8f86b3" stroke-opacity="0.25"/>
 <text class="mono" x="740.8333333333334" y="76" font-size="10" letter-spacing="1.6" text-anchor="middle" fill="#8f86b3">FOLLOWER</text>
-<text class="mono flicker" x="740.8333333333334" y="112" font-size="30" font-weight="800" text-anchor="middle" fill="#00f0ff" filter="url(#glow)">10</text>
+<text class="mono flicker" x="740.8333333333334" y="112" font-size="30" font-weight="800" text-anchor="middle" fill="#00f0ff" filter="url(#glow)">11</text>
 <text class="mono" x="740.8333333333334" y="134" font-size="9" letter-spacing="1.4" text-anchor="middle" fill="#8f86b3" fill-opacity="0.8">TOTAL</text>
 </svg>
